@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Sollertia",
+        "description": "Оформление группы в ВКонтакте для творческого коллектива «Sollertia»",
+        "image": "/images/project1.png",
+        "link": "https://vk.com/sollertiafime",
+        "tools": ["Figma", "Adobe XD", "User Research"]
+      },
+    {
+        "title": "The Favourite Breakfast",
+        "description": "Одностраничный сайт для кафе реализованный в рамках учебной практики",
+        "image": "/images/project2.png",
+        "link": "https://www.behance.net/gallery/211311777/dizajn-sajta-kofejni-(uchebnyj-proekt)"
+    },
+    {
+        "title": "K-quest",
+        "description": "Дизайн сервиса для создания онлайн-квестов «K-quest»",
+        "image": "/images/project3.png",
+        "link": "https://www.behance.net/gallery/172750939/servis-dlja-sozdanija-onlajn-kvestov-K-quest"
+    },
+    {
+        "title": "ЛИАД",
+        "description": "Сайт Лаборатории интеллектуального анализа данных КГПИ ФГБОУ ВО «КемГУ»",
+        "image": "/images/project4.jpg",
+        "link": "https://liad.vercel.app/"
+    },
+    {
+        "title": "Ремонтируй машину времени у нас",
+        "description": "Учебный проект",
+        "image": "/images/project5.png",
+        "link": "https://www.behance.net/gallery/211312223/remontiruj-mashinu-vremeni-u-nas-(uchebnyj-proekt)"
+    }
+]
